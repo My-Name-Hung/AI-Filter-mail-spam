@@ -1,4 +1,4 @@
-# Nhớ Đọc Chú Thích ^^
+
 
 A Python-based spam detector using the Naive Bayes approach.
 
